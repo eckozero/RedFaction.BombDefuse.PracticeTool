@@ -1,0 +1,11 @@
+C:\Users\paul\RedFaction.BombDefuse.PracticeTool\RedFaction.BombDefuse.PracticeTool\bin\Debug\RedFaction.BombDefuse.PracticeTool.exe.config
+C:\Users\paul\RedFaction.BombDefuse.PracticeTool\RedFaction.BombDefuse.PracticeTool\bin\Debug\RedFaction.BombDefuse.PracticeTool.exe
+C:\Users\paul\RedFaction.BombDefuse.PracticeTool\RedFaction.BombDefuse.PracticeTool\bin\Debug\RedFaction.BombDefuse.PracticeTool.pdb
+C:\Users\paul\RedFaction.BombDefuse.PracticeTool\RedFaction.BombDefuse.PracticeTool\obj\Debug\RedFaction.BombDefuse.PracticeTool.csproj.AssemblyReference.cache
+C:\Users\paul\RedFaction.BombDefuse.PracticeTool\RedFaction.BombDefuse.PracticeTool\obj\Debug\RedFaction.BombDefuse.PracticeTool.csproj.SuggestedBindingRedirects.cache
+C:\Users\paul\RedFaction.BombDefuse.PracticeTool\RedFaction.BombDefuse.PracticeTool\obj\Debug\RedFaction.BombDefuse.PracticeTool.Form1.resources
+C:\Users\paul\RedFaction.BombDefuse.PracticeTool\RedFaction.BombDefuse.PracticeTool\obj\Debug\RedFaction.BombDefuse.PracticeTool.Properties.Resources.resources
+C:\Users\paul\RedFaction.BombDefuse.PracticeTool\RedFaction.BombDefuse.PracticeTool\obj\Debug\RedFaction.BombDefuse.PracticeTool.csproj.GenerateResource.cache
+C:\Users\paul\RedFaction.BombDefuse.PracticeTool\RedFaction.BombDefuse.PracticeTool\obj\Debug\RedFaction.BombDefuse.PracticeTool.csproj.CoreCompileInputs.cache
+C:\Users\paul\RedFaction.BombDefuse.PracticeTool\RedFaction.BombDefuse.PracticeTool\obj\Debug\RedFaction.BombDefuse.PracticeTool.exe
+C:\Users\paul\RedFaction.BombDefuse.PracticeTool\RedFaction.BombDefuse.PracticeTool\obj\Debug\RedFaction.BombDefuse.PracticeTool.pdb
