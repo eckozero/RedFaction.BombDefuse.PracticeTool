@@ -83,6 +83,7 @@ namespace RedFaction.BombDefuse.PracticeTool
         {
             _bomb = new BombModel();
             ClearTextBoxes();
+            _currentTextButtonNumber = 1;
             label1.Visible = false;
         }
 
