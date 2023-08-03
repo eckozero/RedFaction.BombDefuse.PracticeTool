@@ -62,7 +62,7 @@ namespace RedFaction.BombDefuse.PracticeTool
                 }
             }
 
-            _currentTextButtonNumber = 1;
+            _currentTextButtonNumber = _bomb._isUpperPanelComplete ? 5 : 1;
             ClearTextBoxes();
         }
 
